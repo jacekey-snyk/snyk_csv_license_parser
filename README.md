@@ -28,7 +28,7 @@ cd folder_name
 Running the Script.  
 
 
-Copy the CSV File that you want to convert into the script Folder and rename it to ** input.csv  **
+Copy the CSV File that you want to convert into the script Folder
 
 Now you can run the script.
 
@@ -36,6 +36,12 @@ Now you can run the script.
 ```bash
 
 python3 snyk_license_csv.py
+
+```
+
+```bash
+
+input file name
 
 ```
 
