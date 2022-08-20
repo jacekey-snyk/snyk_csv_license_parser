@@ -41,7 +41,7 @@ python3 snyk_license_csv.py
 
 ```bash
 
-input file name
+Please enter the file with extension name: filename.csv
 
 ```
 
